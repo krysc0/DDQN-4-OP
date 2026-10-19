@@ -9,7 +9,7 @@ after documentation.
 - **Libraries:** pytorch, pytorch-geometric, scikit-learn, scipy, matplotlib, networkx, gymnasium
 
 ## Algorithm
-![Algorithm](docs/images/algorithm.png)
+![Algorithm](docs/images/Algorithm.png)
 
 ## Graph Neural Networks (Outer & Inner)
 ![Double Q Network](docs/images/dqn.png)
