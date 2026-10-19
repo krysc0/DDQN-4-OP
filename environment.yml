@@ -1,0 +1,16 @@
+name: DDQL
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - networkx
+  - tqdm
+  - gymnasium
+  - pip
+  - pip:
+      - torch
+      - torch_geometric

@@ -1,0 +1,19 @@
+{
+	"v": 66,
+	"input_dimension": 3,
+	"h": [32, 64, 128],
+	"dropout": 0.3, 
+	"learning_rate": 1e-6,
+	"l2": 1e-3,
+	"initial_epsilon": 1.0,
+	"m": 32, 
+	"max_episodes": 5000,
+	"epsilon_decay": 0.99,
+	"minimum_epsilon": 0.1,
+	"gamma": 0.99, 
+	"k": 1, 
+	"n": 100,
+	"b": 100000,
+	"delta": 1e-2,
+	"patience": 5
+}
