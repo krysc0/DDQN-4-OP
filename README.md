@@ -17,7 +17,7 @@ after documentation.
 
 ## Full Write-Up
 For methodology, results, and design decisions, see the
-[project report](docs\RL\Using_DDQN_to_Solve_the_Orienteering_Problem.pdf).
+[project report](docs/RL/Using_DDQN_to_Solve_the_Orienteering_Problem.pdf)
 
 ### Setup
 
