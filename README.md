@@ -1,4 +1,4 @@
-# Double-Deep Q-Learning to solve the Team Orienteering Problem
+# Double-Deep Q-Learning to solve the Orienteering Problem
 
 Completed as supervised research in Fall 2024 and submitted as final
 project for IE 500: Intro to Deep Learning. Published in Fall 2026 
@@ -23,7 +23,7 @@ For methodology, results, and design decisions, see the
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/krysc/DDQN-4-TOP.git
+   git clone https://github.com/krysc/DDQN-4-OP.git
    cd DDQN-4-TOP
 ```
 
